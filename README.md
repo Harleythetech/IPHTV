@@ -25,7 +25,7 @@ https://github.com/Harleythetech/IPHTV/raw/main/ph.m3u
 - SONY MOVIES
 - SONY PIX HD (as requested by [USER=1025602]SilentWatcher[/USER])
 - CINEMO!
-- DREAM TV
+- ALL TV | DREAM TV
 - ASIAN CRUSH (Not working on Kodi, Checking out possible issues)
 - TLC HD
 - K-MOVIES
@@ -40,6 +40,7 @@ https://github.com/Harleythetech/IPHTV/raw/main/ph.m3u
 - INVESTIGATION DISCOVERY HD
 - K-PLUS
 - Kapamilya Channel (Online Live)
+- ALL TV | STARTELEVISION
     - Credits to all the sources of the working m3u links 
 
 
