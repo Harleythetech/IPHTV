@@ -56,6 +56,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 - SUPER RADYO DZBB (AUDIO STREAM)
 - TFC
 - WWE NETWORK
+- DREAMSTAR TV
     - Credits to all the sources of the working m3u links 
 
 
