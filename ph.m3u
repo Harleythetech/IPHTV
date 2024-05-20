@@ -69,3 +69,31 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1716189741/ei/z
 https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
 EXTINF:-1 tvg-id="ANIMAX | アニマックス (JP | No Subtitle)" tvg-chno="33" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX | アニマックス (JP | No Subtitle)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" tvg-chno="34" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="ANIMATION",CRUNCHYROLL | EN AUDIO / 720P
+https://bit.ly/Crunchyroll-ph
+#EXTINF:-1 tvg-id="GMA LIFE" tvg-chno="35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="GENERAL",GMA LIFE
+https://bit.ly/44MSmz6
+#EXTINF:-1 tvg-id="GMA NEWS" tvg-chno="36" tvg-logo="https://seeklogo.com/images/G/gma-news-tv-logo-3794BEFE06-seeklogo.com.png" group-title="GENERAL",GMA NEWS
+https://bit.ly/4bu7gwD
+#EXTINF:-1 tvg-id="GMA PINOY" tvg-chno="37" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="GENERAL",GMA PINOY
+https://bit.ly/3yqN4x7
+#EXTINF:-1 tvg-id="NICKELODEON JR" tvg-chno="38" tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="ANIMATION",NICKELODEON JR
+https://tinyurl.com/yky2zpca
+#EXTINF:-1 tvg-id="ONE NEWS" tvg-chno="39" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/One_News_PH_logo_2020.png/revision/latest/scale-to-width-down/250?cb=20200308023054" group-title="NEWS",One News
+https://bit.ly/3V39Bce
+#EXTINF:-1 tvg-id="ONE SPORTS" tvg-chno="40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/One_Sports_logo.svg" group-title="SPORTS",One Sports
+https://bit.ly/4dIklUF
+#EXTINF:-1 tvg-id="ONE SPORTS+" tvg-chno="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="SPORTS",One Sports+
+https://tinyurl.com/SPORTplu
+#EXTINF:-1 tvg-id="PBA RUSH" tvg-chno="41" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="SPORTS",PBA RUSH
+https://bit.ly/3wHOJxE
+#EXTINF:-1 tvg-id="PBO" tvg-chno="42" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="MOVIES",PBO
+https://bit.ly/44LFPvQ
+#EXTINF:-1 tvg-id="SARI-SARI" tvg-chno="43" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Sari-Sari_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20151206073105" group-title="GENERAL",SARI - SARI
+https://tinyurl.com/5bcc4nrw
+#EXTINF:-1 tvg-id="SUPER RADYO DZBB (AUDIO STREAM)" tvg-chno="44" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/63288.v7.png" group-title="NEWS",Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
+#EXTINF:-1 tvg-id="TFC" tvg-chno="45" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/e/e8/TFC_(2011-.n.v.).png/revision/latest/scale-to-width-down/80?cb=20230131102035" group-title="GENERAL",TFC
+https://bit.ly/3WLqRDR
+#EXTINF:-1 tvg-id="WWE NETWORK" tvg-chno="46" tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="SPORTS",WWE Network
+https://tinyurl.com/WWENETW
