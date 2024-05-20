@@ -39,6 +39,7 @@ https://github.com/Harleythetech/IPHTV/raw/main/ph.m3u
 - HGTV
 - INVESTIGATION DISCOVERY HD
 - K-PLUS
+- Kapamilya Channel (Online Live)
     - Credits to all the sources of the working m3u links 
 
 
