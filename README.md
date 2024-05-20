@@ -41,3 +41,6 @@ Channel List as of 5/20/2024:
 -- Issue 1: SONY PIX, Might Buffer 2 times or more but once it gets stable it will be stable continuously.
 
 -- Issue 2: Asian Crush Works on other Client but not on kodi...
+
+# NOTICE
+Note that the content of this repository does not contain any videos whatsoever that is linked to the owners of the said broadcaster, this is only links made available to public by people that i compiled in order to make my own playlist / ch of IPTVs
