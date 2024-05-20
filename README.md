@@ -4,7 +4,7 @@ Channel List as of 5/20/2024:
 
 LINK TO IPTV M3U:
 ```
-https://github.com/Harleythetech/IPHTV/raw/main/ph.m3u
+https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
 - ANC HD
