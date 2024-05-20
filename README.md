@@ -41,6 +41,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 - K-PLUS
 - Kapamilya Channel (Online Live)
 - ALL TV | STARTELEVISION
+- ANIMAX (アニマックス) | JP Audio, No Subtitle
     - Credits to all the sources of the working m3u links 
 
 
