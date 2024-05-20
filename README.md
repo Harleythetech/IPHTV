@@ -2,6 +2,10 @@
 Philippine based maintained IPTV list from various sources.
 Channel List as of 5/20/2024:
 
+LINK TO IPTV M3U:
+```
+https://github.com/Harleythetech/IPHTV/raw/main/ph.m3u
+```
 
 - ANC HD
 - BBC NEWS (ASIA PACIFIC UK)
