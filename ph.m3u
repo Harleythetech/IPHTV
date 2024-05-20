@@ -32,7 +32,7 @@ https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="MOVIES", SONY MOVIES
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY PIX (Small Buffer Issues)" tvg-logo="https://phcorner.net/attachments/sony_pix_new-png.2936862/" group-title="MOVIES", SONY PIX (Small Buffer Issues)
-https://lin-gd-001-cf.slivcdn.com/out/v1/f88af37f57d94cbd8c584cd5e83d92aa/master.m3u8?hdnea=st=1716172686~exp=1716172986~acl=*~id=5afe9555-5604-4655-b62a-f8ea59949a3c~hmac=32adbe740442bada32b5c32a420c9c1489d48a8923fb557d8c3b4e678faf3121&originpath=/linear/hls/pa/event/x7rXWd2ERZ2tvyQWPmO1HA/stream/34a65904-5e55-4c16-916e-a9589e96993a:CHS/master.m3u8
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-id="CINEMO!" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="DREAM TV" tvg-logo="https://play-lh.googleusercontent.com/Re0a5OhSc98RSOiuN6oVaT7r6LbyoXsD4FU_sZM_8Z25Yf1O4PND64w7hYNWQhDif39u" group-title="GENERAL", DREAM TV
