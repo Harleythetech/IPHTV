@@ -42,6 +42,20 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 - Kapamilya Channel (Online Live)
 - ALL TV | STARTELEVISION
 - ANIMAX (アニマックス) | JP Audio, No Subtitle
+- CRUNCHYROLL | EN AUDIO / 720P
+- GMA LIFE
+- GMA NEWS
+- GMA PINOY
+- NICKELODEON JR
+- ONE NEWS
+- ONE SPORTS
+- ONE SPORTS+
+- PBA RUSH
+- PBO
+- SARI-SARI
+- SUPER RADYO DZBB (AUDIO STREAM)
+- TFC
+- WWE NETWORK
     - Credits to all the sources of the working m3u links 
 
 
