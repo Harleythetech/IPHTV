@@ -7,56 +7,50 @@ LINK TO IPTV M3U:
 https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 ```
 
-- ANC HD
-- BBC NEWS (ASIA PACIFIC UK)
-- CARTOON NETWORK ASIA (sg)
-- CINEMA ONE
-- DZRH NEWS TV
-- HBO ASIA HD (SG)
-- MYX PH
-- DZBBDT 1
-- TV 5
-- FOX LIVE
-- CNN HD
-- FOX SPORTS
-- RAKUTEN TV
-- RAKUTEN TV FAMILY
-- RAKUTEN TV ACTION MOVIES
-- SONY MOVIES
-- SONY PIX HD (as requested by [USER=1025602]SilentWatcher[/USER])
-- CINEMO!
-- ALL TV | DREAM TV
-- ASIAN CRUSH (Not working on Kodi, Checking out possible issues)
-- TLC HD
-- K-MOVIES
-- FOOD NETWORK
-- DISCOVERY TURBO
-- DMAX
-- DISCOVERY HD
-- DISCOVERY SCIENCE
-- COMEDY CENTRAL
-- BOOMERANG
-- HGTV
-- INVESTIGATION DISCOVERY HD
-- K-PLUS
-- Kapamilya Channel (Online Live)
-- ALL TV | STARTELEVISION
-- ANIMAX (アニマックス) | JP Audio, No Subtitle
-- CRUNCHYROLL | EN AUDIO / 720P
-- GMA LIFE
-- GMA NEWS
-- GMA PINOY
-- NICKELODEON JR
-- ONE NEWS
-- ONE SPORTS
-- ONE SPORTS+
-- PBA RUSH
-- PBO
-- SARI-SARI
-- SUPER RADYO DZBB (AUDIO STREAM)
-- TFC
-- WWE NETWORK
-- DREAMSTAR TV
+    ANC HD
+    CARTOON NETWORK ASIA (sg)
+    CINEMA ONE
+    DZRH NEWS TV
+    HBO ASIA HD (SG)
+    MYX PH
+    DZBBDT 1
+    TV 5
+    FOX LIVE
+    CNN HD
+    RAKUTEN TV
+    RAKUTEN TV FAMILY
+    RAKUTEN TV ACTION MOVIES
+    SONY MOVIES
+    CINEMO!
+    ALL TV | DREAM TV
+    ASIAN CRUSH (Not working on Kodi, Leaving it here since it's still usable on other players)
+    TLC HD
+    K-MOVIES
+    FOOD NETWORK
+    DISCOVERY TURBO
+    DMAX
+    DISCOVERY HD
+    DISCOVERY SCIENCE
+    COMEDY CENTRAL
+    HGTV
+    INVESTIGATION DISCOVERY HD
+    ALL TV | STARTELEVISION (IPTV m3u8 link provided by [USER=1814543]elektriko[/USER])
+    ANIMAX (アニマックス) | JP Audio, No Subtitle
+    - CRUNCHYROLL | EN AUDIO / 720P
+    GMA LIFE
+    GMA NEWS
+    GMA PINOY
+    NICKELODEON JR
+    ONE NEWS
+    ONE SPORTS
+    ONE SPORTS+
+    PBA RUSH
+    PBO
+    SARI-SARI
+    SUPER RADYO DZBB (AUDIO STREAM)
+    TFC
+    WWE NETWORK
+    DREAMSTAR TV (M3U8 link Provided by [USER=2380937]ziegen[/USER] )
     - Credits to all the sources of the working m3u links 
 
 
