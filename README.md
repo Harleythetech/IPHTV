@@ -51,6 +51,52 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     TFC
     WWE NETWORK
     DREAMSTAR TV (M3U8 link Provided by [USER=2380937]ziegen[/USER] )
+    
+    (5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
+    TELERADYO SERBISYO
+    CNN
+    INCTV
+    TRAVEL CHANNEL
+    CARTOONITO HD
+    ARIRANG
+    ALJAZEERA
+    KBS WORLD
+    TV5 MONDE ASIE
+    TV5 MONDE STYLE
+    NHK WORLD JAPAN
+    BLOOMBERG
+    BBC WORLD NEWS
+    AXN
+    CINEMAX
+    ASIAN CRUSH
+    HBO FAMILY
+    HBO SIGNATURE
+    HBO PLUS
+    HBO HD
+    HBO 2
+    HBO XTREME
+    CGTN NEWS
+    CGTN DOCUMENTARIES
+    FRANCE 24
+    LOTUS MACAU
+    OUTDOOR CHANNEL
+    PARAMOUNT NETWORK
+    ANIMAL PLANET
+    WILD PLANET
+    THRILLERS
+    BBC FOOD
+    AMERICAN PICKERS
+    AMERICA'S GOT TALENT
+    AMERICAN IDOL
+    AFV
+    ACTION!!!
+    24 HOUR FREE MOVIES
+    REDBOX SPOTLIGHT
+    REDBOX COMEDY
+    BAYWATCH
+    BEIN SPORTS EXTRA
+    MOVIE SPHERE
+    
     - Credits to all the sources of the working m3u links 
 
 
