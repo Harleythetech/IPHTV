@@ -265,3 +265,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="GENERAL, MOVIES" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-id="Sony PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="GENERAL, MOVIES", SONY PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
