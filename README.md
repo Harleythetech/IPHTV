@@ -99,6 +99,7 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 
     6/1/2024
     Sony Pix
+    GMA
     
     - Credits to all the sources of the working m3u links 
 
