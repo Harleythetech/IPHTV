@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="ANC HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/ANCHD.svg" group-title="NEWS",ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
@@ -47,9 +48,6 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEMO!"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Cinemo_logo_vectorized.svg" group-title="MOVIES", CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
-#EXTINF:-1 tvg-id="DREAM TV"  tvg-logo="https://play-lh.googleusercontent.com/Re0a5OhSc98RSOiuN6oVaT7r6LbyoXsD4FU_sZM_8Z25Yf1O4PND64w7hYNWQhDif39u" group-title="GENERAL", DREAM TV
-https://ssh101-fl.bozztv.com/ssh101/dreamtvph/index.m3u8
-
 #EXTINF:-1 tvg-id="ASIAN CRUSH"  tvg-logo="https://unlocator.com/wp-content/uploads/2019/02/asiancrush-1.svg" group-title="MOVIES;GENERAL", ASIAN CRUSH
 https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/cb543d1b796c668c84cb3f62cef049a2f9421fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7756db80148e782a8eb3dc68306d390ec90c1fbcbf5ba0f8ff5e43ca78a3b51a4b902910e39f429d8118a681d50ec85e8f25f4118095a1d88017d38f9437f852b7061632571541527ee9ab6d9e98f15931957d21560e5ce8a6808c2156e466702c337b56dd1f9b32dd8024fb115f7bc49f3def019f6eb006a9a16da9b9a29d3529c64c6f381345f0b5dae6d63027af69bb8fe8d37a7098bc721223983c89737979f897ba896357ae21976ea5cdecad7a7b0867a5bdf8e8cea3844bd308cbc9fd943c789c026e16ab52b89361d728922de69e53696b444aa99542d7c6f76a70331fc8d005942412b78ddfd89f166d9e295b7bf870d55e3269ce1f6568aa78aacd723fdf6642ae1d09d67479c04ef5b329b580dee60d34fc9ee44aed60e2b04583a756e73d720c55e0a7620e1c153de3ef600c22708c10b78484b2217b75869dfaf7ce5737102a57035cf985c944dbdf90674d6c823940477b1f109a01ac19fc085b0f23cc5e9eec3e7d8b022e3af5e558795f7f9ddcbe918db59b12e767b2a90e151a88cffbf5d1232a4e5e745aa3/162/1280x720_3329040/index.m3u8?
 
@@ -83,20 +81,11 @@ https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF: -1 tvg-id="INVESTIGATION DISCOVERY HD"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2TMeNpGCPr2qcRynLSStj2lcIZxJWBVKAtRZSYWaiw6drMdWNNh_JOTas&s=10" group-title="EXPLORE;HOROR", INVESTIGATION DISCOVERY HD
 https://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
 
-#EXTINF:-1 tvg-id="ALL TV | STARTELEVISION"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/All_TV_Logo_2023.png" group-title="GENERAL", ALL TV | STARTELEVISION
-https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
-
 EXTINF:-1 tvg-id="ANIMAX (JP | No Subtitle)"  tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="ANIMATION", ANIMAX (JP | No Subtitle)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 #EXTINF:-1 tvg-id="CRUNCHYROLL | EN AUDIO / 720P" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Crunchyroll.svg" group-title="ANIMATION",CRUNCHYROLL | EN AUDIO / 720P
 https://bit.ly/Crunchyroll-ph
-
-#EXTINF:-1 tvg-id="GMA LIFE"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/GMA_Life_TV_logo.png" group-title="GENERAL",GMA LIFE
-https://bit.ly/44MSmz6
-
-#EXTINF:-1 tvg-id="GMA NEWS"  tvg-logo="https://seeklogo.com/images/G/gma-news-tv-logo-3794BEFE06-seeklogo.com.png" group-title="GENERAL",GMA NEWS
-https://bit.ly/4bu7gwD
 
 #EXTINF:-1 tvg-id="GMA PINOY"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/GMA_Pinoy_TV_(2011).png/revision/latest/scale-to-width-down/250?cb=20230617204705" group-title="GENERAL",GMA PINOY
 https://bit.ly/3yqN4x7
@@ -113,9 +102,6 @@ https://bit.ly/4dIklUF
 #EXTINF:-1 tvg-id="ONE SPORTS+"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png/revision/latest/scale-to-width-down/200?cb=20200309053551" group-title="SPORTS",One Sports+
 https://tinyurl.com/SPORTplu
 
-#EXTINF:-1 tvg-id="PBA RUSH"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest?cb=20161115101642" group-title="SPORTS",PBA RUSH
-https://bit.ly/3wHOJxE
-
 #EXTINF:-1 tvg-id="PBO"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Pinoy_Box_Office_logo.png" group-title="MOVIES",PBO
 https://bit.ly/44LFPvQ
 
@@ -130,9 +116,6 @@ https://bit.ly/3WLqRDR
 
 #EXTINF:-1 tvg-id="WWE NETWORK"  tvg-logo="https://i.pinimg.com/originals/75/59/be/7559be1e4321e03d34d262a76eac1767.jpg" group-title="SPORTS",WWE Network
 https://tinyurl.com/WWENETW
-
-#EXTINF:-1 tvg-id="DREAMSTAR TV"  tvg-logo="https://i.ibb.co/sgx9z54/436701796-439431531975006-2317771723364067673-n-removebg-preview.png" group-title="GENERAL", DREAMSTAR TV
-https://ssh101-fl.bozztv.com/ssh101/startelevision/index.m3u8
 
 #EXTINF:-1 tvg-id="TeleRadyo Serbisyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/1200px-TeleRadyo_Serbisyo_logo.svg.png" group-title="GENERAL, NEWS" , TeleRadyo Serbisyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist720_p.m3u8
@@ -265,21 +248,3 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MOVIE SPHERE"  tvg-logo="https://10play.com.au/ip/s3/2022/12/05/f67e539ee7ca067d20f1d406a196abd8-1202911.png" group-title="GENERAL, MOVIES" , MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF: -1 tvg-id="Sony PIX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="GENERAL, MOVIES", SONY PIX
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-
-#EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
-https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
-
-#EXTINF: -1 tvg-id="STBS Global" tvg-logo="https://i.ibb.co/tbVJdMb/oie-k2t-Nnf-X6p0-Kv.jpg" group-title="GENERAL", STBS Global
-http://45.89.149.42:8080/memfs/24edb246-ff61-4692-9235-01bbea3dd419.m3u8
-
-#EXTINF: -1 tvg-id="STAR TELEVISION BRODCAST STATION" tvg-logo="https://i.ibb.co/VHMCPjp/star-television-broadcasting-station-new-logo-orig-removebg-preview-5.png" group-title="GENERAL", STAR TELEVISION BRODCAST STATION
-http://45.89.149.42:8080/memfs/2ee4f342-e8a0-477d-bef1-1172628ffde6.m3u8
-
-#EXTINF: -1 tvg-id="DREAMSTAR TV" tvg-logo="https://i.ibb.co/7jPG9d8/421974055-7425184840922119-2393535146278253515-n.jpg" group-title="GENERAL", DREAMSTAR TV
-http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
-
-#EXTINF: -1 tvg-id="DREAM TV PH" tvg-logo="https://i.ibb.co/5Rnx2F4/267151123-400123965132043-7385225466236355661-n.png" group-title="GENERAL", DREAM TV PH
-http://45.89.149.42:8080/memfs/db8656dd-f3de-4b1b-96a2-328fa0fba58b.m3u8
