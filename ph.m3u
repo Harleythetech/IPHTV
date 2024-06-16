@@ -271,3 +271,15 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF: -1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/800px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL", GMA
 https://ssh101-fl.bozztv.com/ssh101/gmaa/index.m3u8
+
+#EXTINF: -1 tvg-id="STBS Global" tvg-logo="https://i.ibb.co/tbVJdMb/oie-k2t-Nnf-X6p0-Kv.jpg" group-title="GENERAL", STBS Global
+http://45.89.149.42:8080/memfs/24edb246-ff61-4692-9235-01bbea3dd419.m3u8
+
+#EXTINF: -1 tvg-id="STAR TELEVISION BRODCAST STATION" tvg-logo="https://i.ibb.co/VHMCPjp/star-television-broadcasting-station-new-logo-orig-removebg-preview-5.png" group-title="GENERAL", STAR TELEVISION BRODCAST STATION
+http://45.89.149.42:8080/memfs/2ee4f342-e8a0-477d-bef1-1172628ffde6.m3u8
+
+#EXTINF: -1 tvg-id="DREAMSTAR TV" tvg-logo="https://i.ibb.co/7jPG9d8/421974055-7425184840922119-2393535146278253515-n.jpg" group-title="GENERAL", DREAMSTAR TV
+http://45.89.149.42:8080/memfs/d46f93d7-f955-4122-8a31-ebe2a00fe31f.m3u8
+
+#EXTINF: -1 tvg-id="DREAM TV PH" tvg-logo="https://i.ibb.co/5Rnx2F4/267151123-400123965132043-7385225466236355661-n.png" group-title="GENERAL", DREAM TV PH
+http://45.89.149.42:8080/memfs/db8656dd-f3de-4b1b-96a2-328fa0fba58b.m3u8
