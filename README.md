@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     RAKUTEN TV ACTION MOVIES
     SONY MOVIES
     CINEMO!
-    ALL TV | DREAM TV
     ASIAN CRUSH (Not working on Kodi, Leaving it here since it's still usable on other players)
     TLC HD
     K-MOVIES
@@ -34,23 +33,18 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
     COMEDY CENTRAL
     HGTV
     INVESTIGATION DISCOVERY HD
-    ALL TV | STARTELEVISION (IPTV m3u8 link provided by [USER=1814543]elektriko[/USER])
     ANIMAX (アニマックス) | JP Audio, No Subtitle
     - CRUNCHYROLL | EN AUDIO / 720P
-    GMA LIFE
-    GMA NEWS
     GMA PINOY
     NICKELODEON JR
     ONE NEWS
     ONE SPORTS
     ONE SPORTS+
-    PBA RUSH
     PBO
     SARI-SARI
     SUPER RADYO DZBB (AUDIO STREAM)
     TFC
     WWE NETWORK
-    DREAMSTAR TV (M3U8 link Provided by [USER=2380937]ziegen[/USER] )
     
     (5/26/2024) - NEW CHANNELS ADDED : Credits to Jerome Laliag 
     TELERADYO SERBISYO
@@ -99,13 +93,6 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/main/ph.m3u
 
     6/1/2024
     Sony Pix
-    GMA
-
-    6/16/2024
-    STBS GLOBAL
-    STAR TELEVISION BROADCAST STATION
-    DREAMSTAR TV
-    DREAM TV PH
     
     - Credits to all the sources of the working m3u links 
 
