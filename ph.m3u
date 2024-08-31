@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1,Kapamilya Channel
 https://www.youtube.com/live/m2K-avHChAo?si=pdz5V57NUkSjRPQJ
+#EXTINF:-1,One News
+https://bit.ly/3V39Bce
+#EXTINF:-1,One Sports
+https://bit.ly/4dIklUF
+#EXTINF:-1,PBO
+https://bit.ly/44LFPvQ
+#EXTINF:-1,SARI - SARI
+https://tinyurl.com/5bcc4nrw
+#EXTINF:-1,Super Radyo DZBB
+https://tinyurl.com/RadyoDZBB
+#EXTINF:-1,DZRH News TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
 #EXTINF:-1,ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Cartoon Network Southeast Asia (1080p)
