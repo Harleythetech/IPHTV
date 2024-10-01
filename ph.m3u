@@ -89,11 +89,5 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,Star tv philippines
 https://glb.bozztv.com/glb/ssh101/startvphnew/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Atbs global
-https://glb.bozztv.com/glb/ssh101/hmdo/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Rtbs prime
-https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Mabs channel
-https://glb.bozztv.com/glb/ssh101/stbsglobal/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dreamstar Teleradio AUDIO LIVE STREAM
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
