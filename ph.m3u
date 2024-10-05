@@ -93,3 +93,5 @@ https://glb.bozztv.com/glb/ssh101/startvphnew/tracks-v1a1/mono.m3u8
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 #EXTINF:-1,RTBS PRIME
 https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DREAMSTAR TV
+https://glb.bozztv.com/glb/ssh101/dreamstartvnew/tracks-v1a1/mono.m3u8
