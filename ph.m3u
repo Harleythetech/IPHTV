@@ -1,4 +1,4 @@
-#EXTM3U
+v#EXTM3U
 #EXTINF:-1,TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 #EXTINF:-1,One News
@@ -87,11 +87,11 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,TFC GUAM
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1,Star tv philippines
-https://glb.bozztv.com/glb/ssh101/startvphnew/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dreamstar Teleradio AUDIO LIVE STREAM
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
 #EXTINF:-1,RTBS PRIME
 https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DREAMSTAR TV
 https://glb.bozztv.com/glb/ssh101/dreamstartvnew/tracks-v1a1/mono.m3u8
+#EXTINF:-1STAR TV PHILIPPINES NEW
+https://1a-1791.com/live/d0t27del/slot-133/h7ws-57lv_720p/chunklist_DVR.m3u8
