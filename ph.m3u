@@ -87,11 +87,15 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,Dreamstar Teleradio AUDIO LIVE STREAM
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
-#EXTINF:-1,RTBS PRIME
-https://glb.bozztv.com/glb/ssh101/primetvph/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTBS TV
+https://glb.bozztv.com/glb/ssh101/vonnhost/index.m3u8
 #EXTINF:-1,NHERS TELEVISION
 https://glb.bozztv.com/glb/ssh101/jomarhost/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DREAMSTAR TV
 https://glb.bozztv.com/glb/ssh101/dreamstartvnew/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HIGHLIGHTS TV HD
+https://glb.bozztv.com/glb/ssh101/highlightstvph/index.m3u8
+#EXTINF:-1,STAR TELEVISION BROADCASTING STATION HD
+https://glb.bozztv.com/glb/ssh101/startelevision/index.m3u8
 #EXTINF:-1STAR TV PHILIPPINES NEW
 https://1a-1791.com/live/d0t27del/slot-133/h7ws-57lv_720p/chunklist_DVR.m3u8
