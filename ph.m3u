@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1,A2Z (NOT 24/7)
+https://list.iptvcat.com/my_list/s/4e7ef682c1ff69dc3be440e812d88983.m3u8
+#EXTINF:-1,AXN SEA (1080p - Geo Blocked)
+https://list.iptvcat.com/my_list/s/3e1cf51725380844d53649d7d3b296e6.m3u8
+#EXTINF:-1,GTV HD (1080p - NOT 24/7)
+https://list.iptvcat.com/my_list/s/244126e461f15b21105ba5066d507c03.m3u8
+#EXTINF:-1,PTV (720p)
+https://list.iptvcat.com/my_list/s/4409308d5e559b15f85177574e662912.m3u8
+#EXTINF:-1,Cartoon Network SEA (1080p)
+https://list.iptvcat.com/my_list/s/300ca37df9856b8951b4f91c7f2f501a.m3u8
 #EXTINF:-1,ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,Cinema One (1080p)
@@ -61,5 +71,22 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,Dreamstar Teleradio AUDIO LIVE STREAM
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
+#EXTINF:-1,Dreamstar TV (720p) [NOT 24/7]
+https://list.iptvcat.com/my_list/s/a2580f5517287217eaf68205d054e456.m3u8
 #EXTINF:-1,STAR TELEVISION BROADCASTING STATION HD
 https://glb.bozztv.com/glb/ssh101/startelevision/index.m3u8
+#EXTINF:-1,SONY MAX (1080p)
+https://list.iptvcat.com/my_list/s/e31c3f00cdc358e059182a39b8328aa7.m3u8
+#EXTINF:-1,SONY MAX HD (1080p)
+https://list.iptvcat.com/my_list/s/3a16e4a0c33a4b97f80631d736374379.m3u8
+#EXTINF:-1,SONY PIX (1080p)
+https://list.iptvcat.com/my_list/s/3c3089edcd8c89e81846663c225a1f69.m3u8
+#EXTINF:-1,HBO PREMIUM
+https://list.iptvcat.com/my_list/s/f11edecca3cfe5a5acbcc2be3d11e194.m3u8
+#EXTINF:-1,HBO 2 EAST (720p)
+https://list.iptvcat.com/my_list/s/afcd53548781ebf98170775f51344277.m3u8
+#EXTINF:-1,ANIMAX (544p)
+https://list.iptvcat.com/my_list/s/9a771f9717c8ef3f9888eb789ca6deb4.m3u8
+#EXTINF:-1,Cartoonito SEA (1080p)
+https://list.iptvcat.com/my_list/s/5dbd1409d5b00aa4cae1b6091fc27f1b.m3u8
+
