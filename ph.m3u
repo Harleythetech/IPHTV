@@ -1,28 +1,10 @@
-v#EXTM3U
-#EXTINF:-1,TV5 HD
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
-#EXTINF:-1,One News
-https://bit.ly/3V39Bce
-#EXTINF:-1,SARI - SARI
-https://tinyurl.com/5bcc4nrw
-#EXTINF:-1,Super Radyo DZBB
-https://tinyurl.com/RadyoDZBB
-#EXTINF:-1,DZRH News TV (1080p) [Not 24/7]
-https://ythls.armelin.one/channel/UCcTiBX8js_djhSSlmJRI99A.m3u8
+#EXTM3U
 #EXTINF:-1,ANC 
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1,Cartoon Network Southeast Asia (1080p)
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1,Cinema One (1080p)
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,MYX Philippines (720p)
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
-#EXTINF:-1,RAKUTEN TV FAMILY
-https://rakuten-family-1-eu.rakuten.wurl.tv/2000.m3u8
-#EXTINF:-1,RAKUTEN TV ACTION MOVIES
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/2000.m3u8
-#EXTINF:-1,SONY MOVIES
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:-1,CINEMO!
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1,ASIAN CRUSH
@@ -35,8 +17,6 @@ https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
-#EXTINF:-1,Cartoonito HD
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1,Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ALJAZEERA
@@ -59,8 +39,6 @@ https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/am
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1,CGTN Documentaries
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1,France 24
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1,Animal Planet
@@ -73,10 +51,6 @@ https://d2fmvezvf9jfft.cloudfront.net/playlist.m3u8
 https://d2h3esqi6ab3e7.cloudfront.net/index.m3u8
 #EXTINF:-1,Action!!!
 https://bec-action-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1,Redbox Spotlight
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-#EXTINF:-1,Redbox Comedy
-https://comedy-redbox.amagi.tv/playlist.m3u8
 #EXTINF:-1,Baywatch
 https://d1ku2wsea2oun8.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Bein Sports Xtra
@@ -87,15 +61,5 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1,Dreamstar Teleradio AUDIO LIVE STREAM
 https://usa2.server2028.com/hls/dreamstar_teleradio_/live.m3u8
-#EXTINF:-1,RTBS TV
-https://glb.bozztv.com/glb/ssh101/vonnhost/index.m3u8
-#EXTINF:-1,NHERS TELEVISION
-https://glb.bozztv.com/glb/ssh101/jomarhost/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DREAMSTAR TV
-https://glb.bozztv.com/glb/ssh101/dreamstartvnew/tracks-v1a1/mono.m3u8
-#EXTINF:-1,HIGHLIGHTS TV HD
-https://glb.bozztv.com/glb/ssh101/highlightstvph/index.m3u8
 #EXTINF:-1,STAR TELEVISION BROADCASTING STATION HD
 https://glb.bozztv.com/glb/ssh101/startelevision/index.m3u8
-#EXTINF:-1STAR TV PHILIPPINES NEW
-https://1a-1791.com/live/d0t27del/slot-133/h7ws-57lv_720p/chunklist_DVR.m3u8
