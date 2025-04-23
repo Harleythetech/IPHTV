@@ -135,3 +135,5 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
 #EXTINF:-1,RPM (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
+#EXTINF:-1,Easy Rock 96.3 Manila
+https://22243.live.streamtheworld.com/EASYROCK_MNL.mp3
