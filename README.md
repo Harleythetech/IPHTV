@@ -51,6 +51,7 @@ INC TV
 Kapamilya Channel HD
 TV 5
 PTV
+GMA Network
 ```
 
 LINK TO IPTV M3U:
