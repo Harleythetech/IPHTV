@@ -81,19 +81,19 @@ https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/am
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1,30A We Love Cars
-https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1,Canal Motor (720p)
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1,Choppertown (720p)
-https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
-#EXTINF:-1,Fun Roads TV (720p)
-https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
-#EXTINF:-1,Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Retro TV (KCKS-LD9) (480p)
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1,RPM (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-#EXTINF:-1,Easy Rock 96.3 Manila
-https://22243.live.streamtheworld.com/EASYROCK_MNL.mp3
+#EXTINF:-1,Disney XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1,Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,Disney Channel
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1,Nickelodeon 
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1,TV Maria Philippines (720p)
+https://youtube.com/@tvmarialive/live
+#EXTINF:-1,Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
