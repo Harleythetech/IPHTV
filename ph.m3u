@@ -99,3 +99,5 @@ https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1,Kapamilya Channel HD (1080p)
 https://youtube.com/@mychannel-u8b/live
+#EXTINF:-1,GMA Network (1080p)
+https://youtube.com/@gmanetwork/live
