@@ -40,7 +40,7 @@ Kariakos Kids
 Magic Kids
 Persiana Junior
 Retro Crush
-
+MrBean Animated Series
 
 Local Channels:
 The Filipino Channel
