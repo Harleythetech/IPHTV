@@ -41,6 +41,7 @@ Magic Kids
 Persiana Junior
 Retro Crush
 MrBean Animated Series
+Rakuten TV Action Movies
 
 Local Channels:
 The Filipino Channel
