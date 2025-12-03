@@ -35,7 +35,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1,TV5 MONDE Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
-#EXTINF:-1,Bloomberg
+#EXTINF:-1,Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
