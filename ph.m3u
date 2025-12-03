@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1,A2Z (360p) [Not 24/7]
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5.m3u8
+#EXTINF:-1,Mindanow Network TV
+https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1,BBC News Asia Pacific (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1,CLTV 36 (720p) [Not 24/7]
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
-#EXTINF:-1,EWTN Africa Asia (720p)
-https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
+#EXTINF:-1,Bilyonario News Channel (720p) [Geo-blocked]
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
 #EXTINF:-1,INC TV (720p) (720p) [Geo-blocked]
@@ -23,7 +23,7 @@ https://rtvelivestream.akamaized.net/rtvesec/int/tvei_asia_main.m3u8
 https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 #EXTINF:-1,Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1,INCTV
+#EXTINF:-1,INCTV (720p) (720p) [Not 24/7] [Geo-blocked]
 https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
 #EXTINF:-1,Travel Channel
 https://dplus.gammacdn.workers.dev/videos/110.m3u8
@@ -77,23 +77,31 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 https://junhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1,Retro Crush
 https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
-#EXTINF:-1,XilamTV (1080p)
+#EXTINF:-1,XilamTV (1080p) (English Subtitle)
 https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1,Zarok TV Sorani (720p)
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-#EXTINF:-1,30A We Love Cars
-https://30a-tv.com/feeds/vidaa/cars.m3u8
-#EXTINF:-1,Canal Motor (720p)
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1,Choppertown (720p)
-https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
-#EXTINF:-1,Fun Roads TV (720p)
-https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
-#EXTINF:-1,Garage TV Latin America
-https://stream1.sersat.com/hls/garagetv.m3u8
-#EXTINF:-1,Retro TV (KCKS-LD9) (480p)
-https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
-#EXTINF:-1,RPM (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/rpm/playlist.m3u8
-#EXTINF:-1,Easy Rock 96.3 Manila
-https://22243.live.streamtheworld.com/EASYROCK_MNL.mp3
+#EXTINF:-1,Disney XD
+https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
+#EXTINF:-1,Disney Jr
+https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
+#EXTINF:-1,Disney Channel
+https://fl1.moveonjoy.com/DISNEY/index.m3u8
+#EXTINF:-1,Nickelodeon 
+https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1,TV Maria Philippines (720p)
+https://youtube.com/@tvmarialive/live
+#EXTINF:-1,Yahoo! Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,EWTN Europe (720p) [Not 24/7]
+https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
+#EXTINF:-1,NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1,Kapamilya Channel HD (1080p)
+https://youtube.com/@mychannel-u8b/live
+#EXTINF:-1,GMA Network (1080p)
+https://youtube.com/@gmanetwork/live
+#EXTINF:-1,MrBean Animated Series
+https://youtube.com/@cartoonsforkids/live
+#EXTINF:-1,Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
