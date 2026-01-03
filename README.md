@@ -49,10 +49,10 @@ Bilyonario News Channel
 Mindanow Network TV
 TV Maria Philippines
 INC TV
-Kapamilya Channel HD
+Kapamilya Channel
 TV 5
 PTV
-GMA Network
+ALLTV
 ```
 
 LINK TO IPTV M3U:
