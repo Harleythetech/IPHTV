@@ -23,8 +23,6 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 http://136.239.159.18:6610/001/2/ch00000090990000001092/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrC5ZD%2FYbS0KSGrFVJUNIMkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001178&contentid=ch00000000000000001178&videoid=ch00000090990000001092&recommendtype=0&userid=1760058453659&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HILNO5G9U9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1,Vegas Life TV
 https://streams.comclark.com/pknsd/vegaslifetv/playlist.m3u8
-#EXTINF:-1,BBC Lifestyle
-https://liveovh010.cda.pl/zkr7GNESGht4_0Wk12c78A/17538736/2782059/enc114/bbclifestylehdraw/bbclifestylehdraw.m3u8
 #EXTINF:-1,Mindanow Network TV
 https://streams.comclark.com/overlay/mindanow/playlist.m3u8
 #EXTINF:-1,BBC News Asia Pacific (720p)
@@ -35,22 +33,18 @@ https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1,EWTN Asia-Pacific (720p) [Not 24/7]
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1,Travel Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1,Arirang
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1,BBC World News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1,CGTN News
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1,CGTN News Live
+http://136.239.173.26:6610/001/2/ch00000090990000001146/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq0bLdlQQxjquEy7BUYBE%2BOytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001316&contentid=ch00000000000000001316&videoid=ch00000090990000001146&recommendtype=0&userid=1917967408923&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=4ADPFTEPDLCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO 
 #EXTINF:-1,CGTN Documentaries
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1,Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1,Animal Planet
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
 #EXTINF:-1,Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1,Bein Sports Xtra
@@ -69,21 +63,10 @@ https://foxkidstv.be:3369/stream/play.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 #EXTINF:-1,Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,Disney XD
-https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1,Disney Jr
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1,Disney Channel
-https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1,Nickelodeon 
-https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1,Yahoo! Finance (1080p)
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1,EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1,NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1,Cinema One
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+
