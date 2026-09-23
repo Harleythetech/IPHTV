@@ -69,4 +69,9 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1,CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
+#ECTINF:-1,Kapamilya Online Live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1707731616/ei/QJbJZZiXIZ2D5t0P9PiQwAs/ip/175.176.7.129/id/XHDrMh-Ee6E.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ==/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/UWF9f1DbtFosIjbTMvHJwmGcCHEzJoLi1hMiETEb40m61Ag/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire,ei,ip,id,source,requiressl,xpc,hfr,ctier,playlist_duration,manifest_duration,maudio,gcr,spc,vprv,go,itag,playlist_type/sig/AJfQdSswRAIgOqNkFSx-6Ep_J5hh0La9VRHl6lSEycauErSbih6UOXoCIDO5q0yz2ioWqajCwDT3xZXqUSAJmqG_BihHzBaiqpC9/file/index.m3u8
+#ECTINF:-1, Animax
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#ECTINF:-1, Kapamilya Channel
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/100.m3u8
