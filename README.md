@@ -23,6 +23,16 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
 
 ---
 
+## Stream Scanner & Verification
+
+Test streams, verify playback status, or scan for dead links directly in your browser:
+
+* **Web Scanner:** [iPTV Scanner](https://harleythetech.github.io/iPTV-Scanner/)
+
+Use this tool to check stream uptime and health before opening a pull request.
+
+---
+
 ## Channel Directory
 
 <details>
@@ -100,8 +110,9 @@ https://raw.githubusercontent.com/Harleythetech/IPHTV/refs/heads/main/ph.m3u
 Contributions from the community keep this list functional. If you find an offline stream or have a working stream link to add:
 
 1. Fork this repository.
-2. Update the corresponding entry in `ph.m3u`.
-3. Submit a pull request detailing the changes made.
+2. Verify the stream URL using the [iPTV Scanner](https://harleythetech.github.io/iPTV-Scanner/).
+3. Update the corresponding entry in `ph.m3u`.
+4. Submit a pull request detailing the changes made.
 
 ---
 
